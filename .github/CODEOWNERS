@@ -1,4 +1,0 @@
-your-repo/
-├── asset_inspections_dashboard.py ← this file must contain your dashboard code
-├── requirements.txt
-├── (optional CSV or DB file)
