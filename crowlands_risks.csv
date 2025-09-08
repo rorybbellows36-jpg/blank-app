@@ -1,0 +1,4 @@
+risk_id,description,rating,mitigation_plan,risk_owner
+1,Lightning damage on blade structure,H,Carry out regular external blade inspections to find damage and repair on time.,Worley
+2,Minor blade damages propagating into major structural damages,H,Carry out both external and internal blade inspections yearly,Worley
+3,Undetected blade damages resulting in production inefficiencies,M,Ensure preventative maintenance on blades is carried out as recommended.,Worley
