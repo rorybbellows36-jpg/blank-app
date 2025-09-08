@@ -1,6 +1,4 @@
-
 your-repo/
 ├── streamlit_app.py  ← this file must contain your dashboard code
 ├── requirements.txt
-crownlands_risk.csv
 ├── (optional CSV or DB file)
