@@ -1,1 +1,5 @@
 * @streamlit/community-cloud
+your-repo/
+├── streamlit_app.py  ← this file must contain your dashboard code
+├── requirements.txt
+├── (optional CSV or DB file)
